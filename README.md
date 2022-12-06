@@ -1,4 +1,4 @@
-# Node Real-Time-Chat-Server
+# NodeJS Real-Time-Chat-Server
 
 
 ## Set up the .env file
